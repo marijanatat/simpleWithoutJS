@@ -1,3 +1,28 @@
+![jedanaest](https://user-images.githubusercontent.com/53090023/87723810-a425b300-c7ba-11ea-9214-9b020330a2d7.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
