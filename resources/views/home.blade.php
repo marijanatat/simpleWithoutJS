@@ -8,5 +8,9 @@
   </section> --}}
 </div>
 @livewire('todos')
+{{-- @livewire('fileUploader') --}}
+<div class="flex justify-center">
+    <livewire:file-uploader>
+</div>
 
 @endsection
